@@ -1,0 +1,45 @@
+/* .App {
+  text-align: center;
+} */
+
+h1{
+  text-align: center;
+}
+
+.comment{
+  margin: 0px auto;
+  width: 55%;
+  margin: 0px auto;
+}
+
+.comment button{
+  background-color: #004b8d;
+  color: white;
+  padding: 5px;
+  border-radius: 4px;
+  margin-left: 85%;
+  box-shadow: 2px 2px 3px #eee;
+  cursor: pointer;
+}
+
+.comment button:hover {
+  background-color: #0074d9;
+}
+
+.message {
+  margin-left: 43%;
+}
+
+.message button{
+    background-color: #4b8d00;
+    color: white;
+    padding: 5px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 3px #eee;
+    cursor: pointer;
+    margin-left: 46%;
+  }
+
+.message button:hover {
+  background-color: #66c000;
+}
